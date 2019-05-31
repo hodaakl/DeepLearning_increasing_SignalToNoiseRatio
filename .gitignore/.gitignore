@@ -1,0 +1,6 @@
+#ignore the following extensions
+*.npy
+*.pkl
+*.h5
+*.tiff
+*.txt
